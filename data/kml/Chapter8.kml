@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Chapter 8.kml</name>
+	<Style id="sh_no.054-Tetsujin28">
+		<IconStyle>
+			<scale>5</scale>
+			<Icon>
+				<href>../images/no.054-Tetsujin28.png</href>
+			</Icon>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ff0098f3</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_no.054-Tetsujin28">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_no.054-Tetsujin28</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_no.054-Tetsujin28</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_no.055-Gundam">
+		<IconStyle>
+			<scale>3</scale>
+			<Icon>
+				<href>../images/no.055-Gundam.png</href>
+			</Icon>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ff969e00</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_no.055-Gundam">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_no.055-Gundam</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_no.055-Gundam</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_no.055-Gundam">
+		<IconStyle>
+			<scale>3.54545</scale>
+			<Icon>
+				<href>../images/no.055-Gundam.png</href>
+			</Icon>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ff969e00</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_no.054-Tetsujin28">
+		<IconStyle>
+			<scale>3</scale>
+			<Icon>
+				<href>../images/no.054-Tetsujin28.png</href>
+			</Icon>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ff0098f3</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Folder>
+		<name>Chapter 8</name>
+		<description>第8章　巨大ロボット 1/1もにゅキャラ対決!</description>
+		<Placemark>
+			<name>no.054 鉄人２８号</name>
+			<description><![CDATA[<b>●DATA</b><br>
+作品名：鉄人２８号
+所在地：兵庫県神戸市長田区・新長田駅そば若松公園内
+属性：鋼板・大仏型・まちづくり<a href="http://tompei1.la.coocan.jp/Ph-Tetsujin28.htm">http://tompei1.la.coocan.jp/Ph-Tetsujin28.htm</a>]]></description>
+			<LookAt>
+				<longitude>135.149378502406</longitude>
+				<latitude>34.65636060463377</latitude>
+				<altitude>0</altitude>
+				<heading>72.8655806703627</heading>
+				<tilt>32.7933771274903</tilt>
+				<range>1514.266292676906</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_no.054-Tetsujin28</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>135.1441463220263,34.65597271097654,1000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>no.055 ガンダム</name>
+			<description><![CDATA[<b>●DATA</b><br>
+作品名：機動戦士ガンダム
+所在地：東京都江東区青梅・ダイバーシティ東京プラザ前
+属性：FRP・大仏型・招き猫<a href="http://wally.blog.jp/archives/1008192562.html">http://wally.blog.jp/archives/1008192562.html</a>]]></description>
+			<LookAt>
+				<longitude>139.7754656996884</longitude>
+				<latitude>35.62444000018325</latitude>
+				<altitude>0</altitude>
+				<heading>-1.814411029134492e-010</heading>
+				<tilt>0</tilt>
+				<range>1000.000049198904</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_no.055-Gundam</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.7754656996884,35.62444000018324,1000</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

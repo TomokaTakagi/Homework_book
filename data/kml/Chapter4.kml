@@ -1,0 +1,1093 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Chapter 4.kml</name>
+	<StyleMap id="msn_no.020-Yuuki-Mizuhara">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_no.020-Yuuki-Mizuhara</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_no.020-Yuuki-Mizuhara</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_no.034-Doraemon">
+		<IconStyle>
+			<scale>4.13636</scale>
+			<Icon>
+				<href>../images/no.034-Doraemon.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0098f3</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_no.024-Shinichi-&amp;-Ran">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_no.024-Shinichi-&amp;-Ran</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_no.024-Shinichi-&amp;-Ran</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_no.033-Kamen-Rider-V3">
+		<IconStyle>
+			<scale>3</scale>
+			<Icon>
+				<href>../images/no.033-Kamen-Rider-V3.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ffb76800</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_no.020-Yuuki-Mizuhara">
+		<IconStyle>
+			<scale>3.5</scale>
+			<Icon>
+				<href>../images/no.020-Yuuki-Mizuhara.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0098f3</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_no.023-Shinichi-Kudo">
+		<IconStyle>
+			<scale>4.13636</scale>
+			<Icon>
+				<href>../images/no.023-Shinichi-Kudo.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ffb76800</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_no.025-Kitaro">
+		<IconStyle>
+			<scale>3.5</scale>
+			<Icon>
+				<href>../images/no.025-Kitaro.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ffb76800</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_no.022-Conan-Edogawa">
+		<IconStyle>
+			<scale>4.13636</scale>
+			<Icon>
+				<href>../images/no.022-Conan-Edogawa.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ffb76800</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_no.030-Joe-Shimamura">
+		<IconStyle>
+			<scale>3.54545</scale>
+			<Icon>
+				<href>../images/no.030-Joe-Shimamura.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ffb76800</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_no.029-Shigeru-Mizuki">
+		<IconStyle>
+			<scale>3.5</scale>
+			<Icon>
+				<href>../images/no.029-Shigeru-Mizuki.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ffb76800</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_no.036-Herlock">
+		<IconStyle>
+			<scale>3.5</scale>
+			<Icon>
+				<href>../images/no.036-Herlock.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0098f3</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_no.021-Yasutake-Kageura">
+		<IconStyle>
+			<scale>3.5</scale>
+			<Icon>
+				<href>../images/no.021-Yasutake-Kageura.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0098f3</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_no.024-Shinichi-&amp;-Ran">
+		<IconStyle>
+			<scale>3.5</scale>
+			<Icon>
+				<href>../images/no.024-Shinichi-&amp;-Ran.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ffb76800</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_no.019-Masami-Iwaki">
+		<IconStyle>
+			<scale>4.13636</scale>
+			<Icon>
+				<href>../images/no.019-Masami-Iwaki.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0098f3</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_no.025-Kitaro">
+		<IconStyle>
+			<scale>4.13636</scale>
+			<Icon>
+				<href>../images/no.025-Kitaro.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ffb76800</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_no.033-Kamen-Rider-V3">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_no.033-Kamen-Rider-V3</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_no.033-Kamen-Rider-V3</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_no.026-Nezumi-Otoko">
+		<IconStyle>
+			<scale>3.5</scale>
+			<Icon>
+				<href>../images/no.026-Nezumi-Otoko.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ffb76800</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_no.023-Shinichi-Kudo">
+		<IconStyle>
+			<scale>3.5</scale>
+			<Icon>
+				<href>../images/no.023-Shinichi-Kudo.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ffb76800</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_no.031-Aka-Ranger">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_no.031-Aka-Ranger</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_no.031-Aka-Ranger</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_no.030-Joe-Shimamura">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_no.030-Joe-Shimamura</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_no.030-Joe-Shimamura</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_no.031-Aka-Ranger">
+		<IconStyle>
+			<scale>3.54545</scale>
+			<Icon>
+				<href>../images/no.031-Aka-Ranger.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ffb76800</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_no.032-Kamen-Rider">
+		<IconStyle>
+			<scale>3.54545</scale>
+			<Icon>
+				<href>../images/no.032-Kamen-Rider.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ffb76800</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_no.025-Kitaro">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_no.025-Kitaro</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_no.025-Kitaro</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_no.036-Herlock">
+		<IconStyle>
+			<scale>4.13636</scale>
+			<Icon>
+				<href>../images/no.036-Herlock.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0098f3</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_no.028-Sanpei,-Kappa-&amp;-Tanuki">
+		<IconStyle>
+			<scale>3.5</scale>
+			<Icon>
+				<href>../images/no.028-Sanpei,-Kappa-&amp;-Tanuki.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ffb76800</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_no.032-Kamen-Rider">
+		<IconStyle>
+			<scale>3</scale>
+			<Icon>
+				<href>../images/no.032-Kamen-Rider.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ffb76800</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_no.028-Sanpei,-Kappa-&amp;-Tanuki">
+		<IconStyle>
+			<scale>4.13636</scale>
+			<Icon>
+				<href>../images/no.028-Sanpei,-Kappa-&amp;-Tanuki.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ffb76800</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_no.021-Yasutake-Kageura">
+		<IconStyle>
+			<scale>4.13636</scale>
+			<Icon>
+				<href>../images/no.021-Yasutake-Kageura.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0098f3</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_no.022-Conan-Edogawa">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_no.022-Conan-Edogawa</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_no.022-Conan-Edogawa</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_no.027-Sunakake-Baba">
+		<IconStyle>
+			<scale>4.13636</scale>
+			<Icon>
+				<href>../images/no.027-Sunakake-Baba.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ffb76800</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_no.034-Doraemon">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_no.034-Doraemon</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_no.034-Doraemon</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_no.034-Doraemon">
+		<IconStyle>
+			<scale>3.5</scale>
+			<Icon>
+				<href>../images/no.034-Doraemon.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0098f3</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_no.023-Shinichi-Kudo">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_no.023-Shinichi-Kudo</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_no.023-Shinichi-Kudo</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_no.021-Yasutake-Kageura">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_no.021-Yasutake-Kageura</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_no.021-Yasutake-Kageura</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_no.029-Shigeru-Mizuki">
+		<IconStyle>
+			<scale>4.13636</scale>
+			<Icon>
+				<href>../images/no.029-Shigeru-Mizuki.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ffb76800</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_no.035-Fukuzo-Moguro">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_no.035-Fukuzo-Moguro</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_no.035-Fukuzo-Moguro</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_no.022-Conan-Edogawa">
+		<IconStyle>
+			<scale>3.5</scale>
+			<Icon>
+				<href>../images/no.022-Conan-Edogawa.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ffb76800</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_no.019-Masami-Iwaki">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_no.019-Masami-Iwaki</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_no.019-Masami-Iwaki</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_no.035-Fukuzo-Moguro">
+		<IconStyle>
+			<scale>3.5</scale>
+			<Icon>
+				<href>../images/no.035-Fukuzo-Moguro.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ffb76800</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_no.018-Taro-Yamada">
+		<IconStyle>
+			<scale>4.13636</scale>
+			<Icon>
+				<href>../images/no.018-Taro-Yamada.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0098f3</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_no.018-Taro-Yamada">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_no.018-Taro-Yamada</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_no.018-Taro-Yamada</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_no.020-Yuuki-Mizuhara">
+		<IconStyle>
+			<scale>4.13636</scale>
+			<Icon>
+				<href>../images/no.020-Yuuki-Mizuhara.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0098f3</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_no.036-Herlock">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_no.036-Herlock</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_no.036-Herlock</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_no.026-Nezumi-Otoko">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_no.026-Nezumi-Otoko</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_no.026-Nezumi-Otoko</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_no.031-Aka-Ranger">
+		<IconStyle>
+			<scale>3</scale>
+			<Icon>
+				<href>../images/no.031-Aka-Ranger.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ffb76800</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_no.027-Sunakake-Baba">
+		<IconStyle>
+			<scale>3.5</scale>
+			<Icon>
+				<href>../images/no.027-Sunakake-Baba.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ffb76800</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_no.029-Shigeru-Mizuki">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_no.029-Shigeru-Mizuki</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_no.029-Shigeru-Mizuki</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_no.019-Masami-Iwaki">
+		<IconStyle>
+			<scale>3.5</scale>
+			<Icon>
+				<href>../images/no.019-Masami-Iwaki.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0098f3</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_no.028-Sanpei,-Kappa-&amp;-Tanuki">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_no.028-Sanpei,-Kappa-&amp;-Tanuki</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_no.028-Sanpei,-Kappa-&amp;-Tanuki</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_no.026-Nezumi-Otoko">
+		<IconStyle>
+			<scale>4.13636</scale>
+			<Icon>
+				<href>../images/no.026-Nezumi-Otoko.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ffb76800</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_no.018-Taro-Yamada">
+		<IconStyle>
+			<scale>3.5</scale>
+			<Icon>
+				<href>../images/no.018-Taro-Yamada.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0098f3</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_no.027-Sunakake-Baba">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_no.027-Sunakake-Baba</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_no.027-Sunakake-Baba</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_no.024-Shinichi-&amp;-Ran">
+		<IconStyle>
+			<scale>4.13636</scale>
+			<Icon>
+				<href>../images/no.024-Shinichi-&amp;-Ran.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ffb76800</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_no.032-Kamen-Rider">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_no.032-Kamen-Rider</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_no.032-Kamen-Rider</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_no.033-Kamen-Rider-V3">
+		<IconStyle>
+			<scale>3.54545</scale>
+			<Icon>
+				<href>../images/no.033-Kamen-Rider-V3.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ffb76800</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_no.030-Joe-Shimamura">
+		<IconStyle>
+			<scale>3</scale>
+			<Icon>
+				<href>../images/no.030-Joe-Shimamura.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ffb76800</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_no.035-Fukuzo-Moguro">
+		<IconStyle>
+			<scale>4.13636</scale>
+			<Icon>
+				<href>../images/no.035-Fukuzo-Moguro.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ffb76800</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Folder>
+		<name>Chapter 4</name>
+		<description>第4章　故郷のもにゅキャラを飾る</description>
+		<Placemark>
+			<name>no.018 山田太郎</name>
+			<description><![CDATA[<b>●DATA</b><br>
+作品名：ドカベン
+所在地：新潟県新潟市・古町5番町商店街
+属性：ブロンズ・マネキン型・まちづくり<a href="http://dara.blog.jp/archives/52368366.html">http://dara.blog.jp/archives/52368366.html</a>]]></description>
+			<LookAt>
+				<longitude>139.0438826980318</longitude>
+				<latitude>37.91970187764869</latitude>
+				<altitude>0</altitude>
+				<heading>-150.6542388953571</heading>
+				<tilt>45.24374788242456</tilt>
+				<range>101.9381171185295</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_no.018-Taro-Yamada</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.0438826980318,37.91970187764869,160</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>no.019 岩鬼正美</name>
+			<description><![CDATA[<b>●DATA</b><br>
+作品名：ドカベン
+所在地：新潟県新潟市・古町5番町商店街
+属性：ブロンズ・マネキン型・まちづくり<a href="https://blogs.yahoo.co.jp/anonymat_21/43622630.html">https://blogs.yahoo.co.jp/anonymat_21/43622630.html</a>]]></description>
+			<LookAt>
+				<longitude>139.0433384606898</longitude>
+				<latitude>37.9183660089866</latitude>
+				<altitude>0</altitude>
+				<heading>177.5385560341583</heading>
+				<tilt>46.37250322702703</tilt>
+				<range>370.4713640772261</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_no.019-Masami-Iwaki</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.0434930107089,37.91891683643419,160</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>no.020 水原勇気</name>
+			<description><![CDATA[<b>●DATA</b><br>
+作品名：野球狂の詩
+所在地：新潟県新潟市・古町5番町商店街
+属性：ブロンズ・マネキン型・まちづくり<a href="https://blogs.yahoo.co.jp/anonymat_21/43622630.html">https://blogs.yahoo.co.jp/anonymat_21/43622630.html</a>]]></description>
+			<LookAt>
+				<longitude>139.0446866449846</longitude>
+				<latitude>37.92062516192733</latitude>
+				<altitude>0</altitude>
+				<heading>20.61964873794786</heading>
+				<tilt>45.34859133662373</tilt>
+				<range>328.7767285701003</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_no.020-Yuuki-Mizuhara</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.0440579269318,37.91992873445812,160</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>no.021 景浦安武</name>
+			<description><![CDATA[<b>●DATA</b><br>
+作品名：あぶさん
+所在地：新潟県新潟市・古町5番町商店街
+属性：ブロンズ・マネキン型・まちづくり<a href="http://dara.blog.jp/archives/52368366.html">http://dara.blog.jp/archives/52368366.html</a>]]></description>
+			<LookAt>
+				<longitude>139.0446814901264</longitude>
+				<latitude>37.9195293066889</latitude>
+				<altitude>0</altitude>
+				<heading>153.7290698834456</heading>
+				<tilt>44.27406303972741</tilt>
+				<range>356.0559904123803</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_no.021-Yasutake-Kageura</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.0442493655136,37.9202415166929,160</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>no.022 江戸川コナン</name>
+			<description><![CDATA[<b>●DATA</b><br>
+作品名：名探偵コナン
+所在地：鳥取県東伯郡北栄町・JR山陰本線由良駅前
+属性：ブロンズ・観音型・ツーリズム<a href="https://blogs.yahoo.co.jp/smilepeace_v/5036075.html">https://blogs.yahoo.co.jp/smilepeace_v/5036075.html</a>]]></description>
+			<LookAt>
+				<longitude>133.7541652272751</longitude>
+				<latitude>35.49014511848621</latitude>
+				<altitude>0</altitude>
+				<heading>-162.262148441011</heading>
+				<tilt>18.40706153662073</tilt>
+				<range>456.1487761082498</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_no.022-Conan-Edogawa</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>133.7544317506534,35.49041304889894,200</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>no.023 工藤新一</name>
+			<description><![CDATA[<b>●DATA</b><br>
+作品名：名探偵コナン
+所在地：鳥取県東伯郡北栄町・北栄町図書館玄関前
+属性：ブロンズ・マネキン型・ツーリズム<a href="https://blogs.yahoo.co.jp/smilepeace_v/5036075.html">https://blogs.yahoo.co.jp/smilepeace_v/5036075.html</a>]]></description>
+			<LookAt>
+				<longitude>133.7552508388191</longitude>
+				<latitude>35.49230977421092</latitude>
+				<altitude>0</altitude>
+				<heading>-2.840861871104401</heading>
+				<tilt>45.33467333067338</tilt>
+				<range>415.7235487740406</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_no.023-Shinichi-Kudo</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>133.7550226133492,35.49128919990701,160</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>no.024 工藤新一＆毛利蘭</name>
+			<description><![CDATA[<b>●DATA</b><br>
+作品名：名探偵コナン
+所在地：鳥取県東伯郡北栄町・出会いの広場
+属性：ブロンズ・地蔵型・ツーリズム<a href="http://tadahikostar.blog21.fc2.com/blog-entry-1735.html">http://tadahikostar.blog21.fc2.com/blog-entry-1735.html</a>]]></description>
+			<LookAt>
+				<longitude>133.7597079304026</longitude>
+				<latitude>35.49289119180045</latitude>
+				<altitude>0</altitude>
+				<heading>49.9111854292326</heading>
+				<tilt>45.52767984713458</tilt>
+				<range>273.7631145907933</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_no.024-Shinichi-&amp;-Ran</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>133.759261677067,35.49269835677719,100</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>no.025 鬼太郎</name>
+			<description><![CDATA[<b>●DATA</b><br>
+作品名：ゲゲゲの鬼太郎
+所在地：鳥取県境港市・水木しげるロード
+属性：ブロンズ・マネキン型・ツーリズム<a href="http://4travel.jp/travelogue/10325227">http://4travel.jp/travelogue/10325227</a>]]></description>
+			<LookAt>
+				<longitude>133.2255186054608</longitude>
+				<latitude>35.54633356075168</latitude>
+				<altitude>0</altitude>
+				<heading>-73.05635270052052</heading>
+				<tilt>44.46447858423313</tilt>
+				<range>378.2218196199417</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_no.025-Kitaro</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>133.2268544485957,35.54596974487537,160</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>no.026 ねずみ男</name>
+			<description><![CDATA[<b>●DATA</b><br>
+作品名：ゲゲゲの鬼太郎
+所在地：鳥取県境港市・水木しげるロード
+属性：ブロンズ・マネキン型・ツーリズム<a href="https://ja.wikipedia.org/wiki/%E3%81%AD%E3%81%9A%E3%81%BF%E7%94%B7">https://ja.wikipedia.org/wiki/%E3%81%AD%E3%81%9A%E3%81%BF%E7%94%B7</a>]]></description>
+			<LookAt>
+				<longitude>133.2294233360947</longitude>
+				<latitude>35.54533878411015</latitude>
+				<altitude>0</altitude>
+				<heading>176.7082032448124</heading>
+				<tilt>42.7372528757145</tilt>
+				<range>357.971359226499</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_no.026-Nezumi-Otoko</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>133.2292913923733,35.54606597506864,160</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>no.027 砂かけ婆</name>
+			<description><![CDATA[<b>●DATA</b><br>
+作品名：ゲゲゲの鬼太郎
+所在地：鳥取県境港市・水木しげるロード
+属性：ブロンズ・フィギュア型・ツーリズム<a href="http://blog.goo.ne.jp/tokuchan_mht/e/77bddc9ff4c16e2923401560b2a0c6d7">http://blog.goo.ne.jp/tokuchan_mht/e/77bddc9ff4c16e2923401560b2a0c6d7</a>]]></description>
+			<LookAt>
+				<longitude>133.2252185039478</longitude>
+				<latitude>35.54550620534658</latitude>
+				<altitude>0</altitude>
+				<heading>-31.69619759753785</heading>
+				<tilt>49.19880190996531</tilt>
+				<range>152.4699324683366</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_no.027-Sunakake-Baba</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>133.2250921387755,35.5455195427991,39.99999999999999</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>no.028 河原三平＆カッパ＆タヌキ</name>
+			<description><![CDATA[<b>●DATA</b><br>
+作品名：河童の三平
+所在地：鳥取県境港市・水木しげるロード
+属性：ブロンズ・観音型・ツーリズム<a href="https://ja.wikipedia.org/wiki/%E6%B2%B3%E7%AB%A5%E3%81%AE%E4%B8%89%E5%B9%B3">https://ja.wikipedia.org/wiki/%E6%B2%B3%E7%AB%A5%E3%81%AE%E4%B8%89%E5%B9%B3</a>]]></description>
+			<LookAt>
+				<longitude>133.2214376932583</longitude>
+				<latitude>35.5459245076272</latitude>
+				<altitude>0</altitude>
+				<heading>-68.2043275841193</heading>
+				<tilt>43.11243832350257</tilt>
+				<range>546.509096368068</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_no.028-Sanpei,-Kappa-&amp;-Tanuki</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>133.2228786145434,35.54509793250562,200</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>no.029 水木しげる</name>
+			<description><![CDATA[<b>●DATA</b><br>
+作品名：ゲゲゲの家計簿 ほか
+所在地：鳥取県境港市・水木しげるロード
+属性：ブロンズ・マネキン型・ツーリズム<a href="http://kontomo.at.webry.info/200710/article_8.html">http://kontomo.at.webry.info/200710/article_8.html</a>]]></description>
+			<LookAt>
+				<longitude>133.2214376932583</longitude>
+				<latitude>35.5459245076272</latitude>
+				<altitude>0</altitude>
+				<heading>-68.2043275841193</heading>
+				<tilt>43.11243832350257</tilt>
+				<range>546.509096368068</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_no.029-Shigeru-Mizuki</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>133.2227563684518,35.54518220377224,160</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>no.030 島村ジョー</name>
+			<description><![CDATA[<b>●DATA</b><br>
+作品名：サイボーグ００９
+所在地：宮城県石巻市・いしのまきマンガロード
+属性：FRP・観音型・ツーリズム<a href="http://blog.livedoor.jp/nekomu2/archives/879592.html">http://blog.livedoor.jp/nekomu2/archives/879592.html</a>]]></description>
+			<LookAt>
+				<longitude>141.305092282748</longitude>
+				<latitude>38.43388986296097</latitude>
+				<altitude>0</altitude>
+				<heading>57.4824345576175</heading>
+				<tilt>40.609716751347</tilt>
+				<range>399.9089082690968</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_no.030-Joe-Shimamura</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>141.3038475963312,38.43344702847543,200</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>no.031 アカレンジャー</name>
+			<description><![CDATA[<b>●DATA</b><br>
+作品名：秘密戦隊ゴレンジャー
+所在地：宮城県石巻市・いしのまきマンガロード
+属性：FRP・マネキン型・ツーリズム<a href="https://ennori.jp/3081/heros-are-defending-ishinomaki-station">https://ennori.jp/3081/heros-are-defending-ishinomaki-station</a>]]></description>
+			<LookAt>
+				<longitude>141.3081105881394</longitude>
+				<latitude>38.43320276202486</latitude>
+				<altitude>0</altitude>
+				<heading>-12.86908597890217</heading>
+				<tilt>45.00192746048246</tilt>
+				<range>359.800420625786</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_no.031-Aka-Ranger</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>141.3084672423498,38.43236205669386,160</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>no.032 仮面ライダー</name>
+			<description><![CDATA[<b>●DATA</b><br>
+作品名：仮面ライダー
+所在地：宮城県石巻市・いしのまきマンガロード
+属性：FRP・マネキン型・ツーリズム<a href="http://yumipen.exblog.jp/21871815/">http://yumipen.exblog.jp/21871815/</a>]]></description>
+			<LookAt>
+				<longitude>141.3082934256088</longitude>
+				<latitude>38.43250911989248</latitude>
+				<altitude>0</altitude>
+				<heading>49.34471758180845</heading>
+				<tilt>45.00082626914804</tilt>
+				<range>100.1856673220838</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_no.032-Kamen-Rider</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>141.3082934256088,38.43250911989248,160</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>no.033 仮面ライダーV3</name>
+			<description><![CDATA[<b>●DATA</b><br>
+作品名：仮面ライダーV3
+所在地：宮城県登米市中田町・石森前田公園
+属性：FRP・観音型・ツーリズム<a href="http://soratoriku.at.webry.info/201010/article_3.html">http://soratoriku.at.webry.info/201010/article_3.html</a>]]></description>
+			<LookAt>
+				<longitude>141.2138594990513</longitude>
+				<latitude>38.7229736747041</latitude>
+				<altitude>0</altitude>
+				<heading>-0.01686205321126363</heading>
+				<tilt>28.96282237408505</tilt>
+				<range>437.5827994948499</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_no.033-Kamen-Rider-V3</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>141.2137771621158,38.7227107322805,200</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>no.034 ドラえもん</name>
+			<description><![CDATA[<b>●DATA</b><br>
+作品名：ドラえもん
+所在地：富山県高岡市・JR高岡駅前
+属性：ブロンズ・天使型・まちづくり<a href="http://www.info-toyama.com/doc/loculture/vol05/page04.html">http://www.info-toyama.com/doc/loculture/vol05/page04.html</a>]]></description>
+			<LookAt>
+				<longitude>137.0147312703503</longitude>
+				<latitude>36.74203097533697</latitude>
+				<altitude>0</altitude>
+				<heading>-106.3499609081867</heading>
+				<tilt>33.32246431309835</tilt>
+				<range>400.7712884452101</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_no.034-Doraemon</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>137.0156847070593,36.7419246575966,160</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>no.035 喪黒福造</name>
+			<description><![CDATA[<b>●DATA</b><br>
+作品名：笑ゥせぇるすまん
+所在地：富山県氷見市・まんがロード
+属性：ブロンズ・マネキン型・ツーリズム<a href="https://blogs.yahoo.co.jp/jj98y328/folder/534886.html?m=lc">https://blogs.yahoo.co.jp/jj98y328/folder/534886.html?m=lc</a>]]></description>
+			<LookAt>
+				<longitude>136.9857605175979</longitude>
+				<latitude>36.85926425965391</latitude>
+				<altitude>0</altitude>
+				<heading>-131.8307207914148</heading>
+				<tilt>40.15413511787325</tilt>
+				<range>361.2790338264201</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_no.035-Fukuzo-Moguro</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>136.9864796576542,36.859734530464,160</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>no.036 ハーロック</name>
+			<description><![CDATA[<b>●DATA</b><br>
+作品名：宇宙海賊キャプテンハーロック ほか
+所在地：福島県北九州市・JR小倉駅新幹線口
+属性：ブロンズ・マネキン型・まちづくり<a href="http://xyz.amamin.jp/e275906.html">http://xyz.amamin.jp/e275906.html</a>]]></description>
+			<LookAt>
+				<longitude>130.8832200797756</longitude>
+				<latitude>33.88775467323661</latitude>
+				<altitude>0</altitude>
+				<heading>78.54785817849469</heading>
+				<tilt>30.9813989414318</tilt>
+				<range>66.27006191019738</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_no.036-Herlock</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>130.8830917763238,33.88774296926687,160</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

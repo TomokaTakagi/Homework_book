@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Chapter 2.kml</name>
+	<StyleMap id="msn_004-Gundam">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_004-Gundam</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_004-Gundam</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_004-Gundam">
+		<IconStyle>
+			<scale>3.5</scale>
+			<Icon>
+				<href>../images/004-Gundam.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0098f3</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_005-Atom">
+		<IconStyle>
+			<scale>4.08333</scale>
+			<Icon>
+				<href>../images/005-Atom.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0098f3</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_005-Atom">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_005-Atom</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_005-Atom</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_006-Maetel-&amp;-Tetsuro-Hoshino">
+		<IconStyle>
+			<scale>3.5</scale>
+			<Icon>
+				<href>../images/006-Maetel-&amp;-Tetsuro-Hoshino.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0098f3</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_008-Lum">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_008-Lum</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_008-Lum</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_008-Lum">
+		<IconStyle>
+			<scale>4.08333</scale>
+			<Icon>
+				<href>../images/008-Lum.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0098f3</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_004-Gundam">
+		<IconStyle>
+			<scale>4.08333</scale>
+			<Icon>
+				<href>../images/004-Gundam.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0098f3</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_007-Joe-Yabuki">
+		<IconStyle>
+			<scale>3.5</scale>
+			<Icon>
+				<href>../images/007-Joe-Yabuki.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0098f3</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_005-Atom">
+		<IconStyle>
+			<scale>3.5</scale>
+			<Icon>
+				<href>../images/005-Atom.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0098f3</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_008-Lum">
+		<IconStyle>
+			<scale>3.5</scale>
+			<Icon>
+				<href>../images/008-Lum.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0098f3</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_006-Maetel-&amp;-Tetsuro-Hoshino">
+		<IconStyle>
+			<scale>4.08333</scale>
+			<Icon>
+				<href>../images/006-Maetel-&amp;-Tetsuro-Hoshino.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0098f3</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_007-Joe-Yabuki">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_007-Joe-Yabuki</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_007-Joe-Yabuki</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_007-Joe-Yabuki">
+		<IconStyle>
+			<scale>4.08333</scale>
+			<Icon>
+				<href>../images/007-Joe-Yabuki.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0098f3</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_006-Maetel-&amp;-Tetsuro-Hoshino">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_006-Maetel-&amp;-Tetsuro-Hoshino</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_006-Maetel-&amp;-Tetsuro-Hoshino</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Folder>
+		<name>Chapter 2</name>
+		<description>第2章　[杉並区vs練馬区]アニメ聖地バトル</description>
+		<Placemark>
+			<name>no.004 ガンダム</name>
+			<description><![CDATA[<b>●DATA</b><br>
+作品名：機動戦士ガンダム
+所在地：東京都杉並区・西武新宿線 上井草駅前
+属性：ブロンズ・観音型・まちづくり<a href="http://mostrip.exblog.jp/10196035/">http://mostrip.exblog.jp/10196035/</a>]]></description>
+			<LookAt>
+				<longitude>139.6036292334722</longitude>
+				<latitude>35.72501684188917</latitude>
+				<altitude>0</altitude>
+				<heading>-61.26772532718497</heading>
+				<tilt>45.3862607847886</tilt>
+				<range>99.64904906382107</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_004-Gundam</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.603796965848,35.72499577915181,200</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>no.005 アトム</name>
+			<description><![CDATA[<b>●DATA</b><br>
+作品名：鉄腕アトム
+所在地：東京都練馬区・西武池袋線 大泉学園駅北口
+属性：ブロンズ・マネキン型・まちづくり
+
+<a href="http://ameblo.jp/mimimisuke/entry-12066038305.html">http://ameblo.jp/mimimisuke/entry-12066038305.html</a>]]></description>
+			<LookAt>
+				<longitude>139.5862586088025</longitude>
+				<latitude>35.74905189499193</latitude>
+				<altitude>0</altitude>
+				<heading>-153.5852911083861</heading>
+				<tilt>28.14538604222687</tilt>
+				<range>304.2506607144184</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_005-Atom</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.5867162229788,35.74969650495767,160</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>no.006 メーテル＆星野鉄郎</name>
+			<description><![CDATA[<b>●DATA</b><br>
+作品名：銀河鉄道９９９
+所在地：東京都練馬区・西武池袋線 大泉学園駅北口
+属性：ブロンズ・マネキン型・まちづくり
+
+<a href="http://ameblo.jp/izumi-clover/entry-12012034247.html">http://ameblo.jp/izumi-clover/entry-12012034247.html</a>]]></description>
+			<LookAt>
+				<longitude>139.5862586088025</longitude>
+				<latitude>35.74905189499193</latitude>
+				<altitude>0</altitude>
+				<heading>-153.5852911083861</heading>
+				<tilt>28.14538604222687</tilt>
+				<range>304.2506607144184</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_006-Maetel-&amp;-Tetsuro-Hoshino</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.5867646152655,35.74969214728762,160</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>no.007 矢吹丈</name>
+			<description><![CDATA[<b>●DATA</b><br>
+作品名：あしたのジョー
+所在地：東京都練馬区・西武池袋線 大泉学園駅北口
+属性：ブロンズ・マネキン型・まちづくり<a href="http://ameblo.jp/mimimisuke/entry-12066038305.html">http://ameblo.jp/mimimisuke/entry-12066038305.html</a>]]></description>
+			<LookAt>
+				<longitude>139.5862586088025</longitude>
+				<latitude>35.74905189499193</latitude>
+				<altitude>0</altitude>
+				<heading>-153.5852911083861</heading>
+				<tilt>28.14538604222687</tilt>
+				<range>304.2506607144184</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_007-Joe-Yabuki</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.5868224915817,35.74967749659204,160</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>no.008 ラム</name>
+			<description><![CDATA[<b>●DATA</b><br>
+作品名：うる星やつら
+所在地：東京都練馬区・西武池袋線 大泉学園駅北口
+属性：ブロンズ・マネキン型・まちづくり<a href="http://ameblo.jp/mimimisuke/entry-12066038305.html">http://ameblo.jp/mimimisuke/entry-12066038305.html</a>]]></description>
+			<LookAt>
+				<longitude>139.5860622099462</longitude>
+				<latitude>35.74927079451619</latitude>
+				<altitude>0</altitude>
+				<heading>-153.5854058536778</heading>
+				<tilt>28.14537557934502</tilt>
+				<range>301.7812028358356</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_008-Lum</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.5869081831797,35.74965480723866,160</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

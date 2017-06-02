@@ -1,0 +1,413 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Chapter 5.kml</name>
+	<StyleMap id="msn_no.042-Perman-No.1-&amp;-No.2">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_no.042-Perman-No.1-&amp;-No.2</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_no.042-Perman-No.1-&amp;-No.2</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_no.040-Doraemon">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_no.040-Doraemon</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_no.040-Doraemon</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_no.037-Sazae-Fuguta">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_no.037-Sazae-Fuguta</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_no.037-Sazae-Fuguta</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_no.042-Perman-No.1-&amp;-No.2">
+		<IconStyle>
+			<scale>3.5</scale>
+			<Icon>
+				<href>../images/no.042-Perman-No.1-&amp;-No.2.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ffb76800</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_no.039-Kitaro">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_no.039-Kitaro</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_no.039-Kitaro</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_no.040-Doraemon">
+		<IconStyle>
+			<scale>3.5</scale>
+			<Icon>
+				<href>../images/no.040-Doraemon.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ffb76800</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_no.039-Kitaro">
+		<IconStyle>
+			<scale>3</scale>
+			<Icon>
+				<href>../images/no.039-Kitaro.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff969e00</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_no.037-Sazae-Fuguta">
+		<IconStyle>
+			<scale>3.5</scale>
+			<Icon>
+				<href>../images/no.037-Sazae-Fuguta.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0098f3</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_no.041-Qtaro-&amp;-Ojiro">
+		<IconStyle>
+			<scale>3.5</scale>
+			<Icon>
+				<href>../images/no.041-Qtaro-&amp;-Ojiro.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ffb76800</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_no.043-Gonsuke-&amp;-Mongar">
+		<IconStyle>
+			<scale>4.13636</scale>
+			<Icon>
+				<href>../images/no.043-Gonsuke-&amp;-Mongar.png</href>
+			</Icon>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ffb76800</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_no.042-Perman-No.1-&amp;-No.2">
+		<IconStyle>
+			<scale>4.13636</scale>
+			<Icon>
+				<href>../images/no.042-Perman-No.1-&amp;-No.2.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ffb76800</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_no.040-Doraemon">
+		<IconStyle>
+			<scale>4.13636</scale>
+			<Icon>
+				<href>../images/no.040-Doraemon.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ffb76800</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_no.037-Sazae-Fuguta">
+		<IconStyle>
+			<scale>4.13636</scale>
+			<Icon>
+				<href>../images/no.037-Sazae-Fuguta.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0098f3</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_no.043-Gonsuke-&amp;-Mongar">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_no.043-Gonsuke-&amp;-Mongar</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_no.043-Gonsuke-&amp;-Mongar</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_no.038-Kobo-Tabata">
+		<IconStyle>
+			<scale>3.5</scale>
+			<Icon>
+				<href>../images/no.038-Kobo-Tabata.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0098f3</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_no.039-Kitaro">
+		<IconStyle>
+			<scale>3.54545</scale>
+			<Icon>
+				<href>../images/no.039-Kitaro.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff969e00</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_no.038-Kobo-Tabata">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_no.038-Kobo-Tabata</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_no.038-Kobo-Tabata</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_no.043-Gonsuke-&amp;-Mongar">
+		<IconStyle>
+			<scale>3.5</scale>
+			<Icon>
+				<href>../images/no.043-Gonsuke-&amp;-Mongar.png</href>
+			</Icon>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ffb76800</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_no.038-Kobo-Tabata">
+		<IconStyle>
+			<scale>4.13636</scale>
+			<Icon>
+				<href>../images/no.038-Kobo-Tabata.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0098f3</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_no.041-Qtaro-&amp;-Ojiro">
+		<IconStyle>
+			<scale>4.13636</scale>
+			<Icon>
+				<href>../images/no.041-Qtaro-&amp;-Ojiro.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ffb76800</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_no.041-Qtaro-&amp;-Ojiro">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_no.041-Qtaro-&amp;-Ojiro</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_no.041-Qtaro-&amp;-Ojiro</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Folder>
+		<name>Chapter 5</name>
+		<description>第5章　縁あってその場所に</description>
+		<Placemark>
+			<name>no.037 フグ田サザエ</name>
+			<description><![CDATA[<b>●DATA</b><br>
+作品名：サザエさん
+所在地：東京都世田谷区・桜新町商店街
+属性：ブロンズ・マネキン型・まちづくり<a href="http://www.gotokyo.org/jp/kanko/setagaya/spot/130422.html">http://www.gotokyo.org/jp/kanko/setagaya/spot/130422.html</a>]]></description>
+			<LookAt>
+				<longitude>139.6452675687933</longitude>
+				<latitude>35.631066179897</latitude>
+				<altitude>0</altitude>
+				<heading>168.3574006432438</heading>
+				<tilt>34.81768396536959</tilt>
+				<range>418.7634949715053</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_no.037-Sazae-Fuguta</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.6449490646886,35.63164662280197,160</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>no.038 田畑コボ</name>
+			<description><b>●DATA</b><br>
+作品名：コボちゃん
+所在地：東京都新宿区・神楽坂商店街
+属性：ブロンズ・地蔵型・まちづくり</description>
+			<LookAt>
+				<longitude>139.737315624686</longitude>
+				<latitude>35.70296719431006</latitude>
+				<altitude>0</altitude>
+				<heading>136.5026246486736</heading>
+				<tilt>30.00132912034912</tilt>
+				<range>294.6493226064006</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_no.038-Kobo-Tabata</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.7367721298618,35.7030179759247,100</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>no.039 鬼太郎</name>
+			<description><![CDATA[<b>●DATA</b><br>
+作品名：ゲゲゲの鬼太郎
+所在地：東京都調布市・天神通り商店街
+属性：FRP・フィギュア型・招き猫<a href="http://dasfoto.blog99.fc2.com/blog-entry-182.html">http://dasfoto.blog99.fc2.com/blog-entry-182.html</a>]]></description>
+			<LookAt>
+				<longitude>139.545113769269</longitude>
+				<latitude>35.65494202485308</latitude>
+				<altitude>0</altitude>
+				<heading>87.91918973104474</heading>
+				<tilt>27.65364366423414</tilt>
+				<range>89.32328017138312</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_no.039-Kitaro</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.5450261633246,35.6549357306677,39.99999999999999</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>no.040 ドラえもん</name>
+			<description><![CDATA[<b>●DATA</b><br>
+作品名：ドラえもん
+所在地：神奈川県川崎市・小田急線向ヶ丘遊園駅前ほか
+属性：ブロンズ・フィギュア型・ツーリズム<a href="http://tezukaosamu.net/jp/mushi/201203/column.html">http://tezukaosamu.net/jp/mushi/201203/column.html</a>]]></description>
+			<LookAt>
+				<longitude>139.5644106283489</longitude>
+				<latitude>35.61689996177582</latitude>
+				<altitude>0</altitude>
+				<heading>-10.28196159198375</heading>
+				<tilt>47.03186598867465</tilt>
+				<range>130.3978794114048</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_no.040-Doraemon</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.5643964381364,35.6167601802199,39.99999999999999</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>no.042 パーマン1号＆2号</name>
+			<description><![CDATA[<b>●DATA</b><br>
+作品名：パーマン
+所在地：神奈川県川崎市・五ヶ村堀緑地本村橋前
+属性：ブロンズ・フィギュア型・ツーリズム<a href="https://blogs.yahoo.co.jp/rc31jp/43895895.html">https://blogs.yahoo.co.jp/rc31jp/43895895.html</a>]]></description>
+			<LookAt>
+				<longitude>139.5693907598352</longitude>
+				<latitude>35.61322548962052</latitude>
+				<altitude>0</altitude>
+				<heading>6.047642502450329</heading>
+				<tilt>46.38508660923146</tilt>
+				<range>102.7312361849084</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_no.042-Perman-No.1-&amp;-No.2</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.569402863912,35.61312312709821,39.99999999999999</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>no.041 Q太郎＆O次郎</name>
+			<description><![CDATA[<b>●DATA</b><br>
+作品名：オバケのQ太郎
+所在地：神奈川県川崎市・五ヶ村堀緑地
+属性：ブロンズ・フィギュア型・ツーリズム<a href="https://blogs.yahoo.co.jp/rc31jp/43895895.html">https://blogs.yahoo.co.jp/rc31jp/43895895.html</a>]]></description>
+			<LookAt>
+				<longitude>139.5665989239032</longitude>
+				<latitude>35.61482145496306</latitude>
+				<altitude>0</altitude>
+				<heading>6.046073255691633</heading>
+				<tilt>43.39787167385874</tilt>
+				<range>290.0073007498383</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_no.041-Qtaro-&amp;-Ojiro</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.5663986665045,35.61451411351727,39.99999999999999</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>no.043 ゴンスケ＆モンガー</name>
+			<description><![CDATA[<b>●DATA</b><br>
+作品名：２１エモン
+所在地：神奈川県川崎市・二ヶ領用水宿河原堀沿い
+属性：ブロンズ・フィギュア型・ツーリズム<a href="https://blogs.yahoo.co.jp/rc31jp/43895895.html">https://blogs.yahoo.co.jp/rc31jp/43895895.html</a>]]></description>
+			<LookAt>
+				<longitude>139.5764369745903</longitude>
+				<latitude>35.61455491746158</latitude>
+				<altitude>0</altitude>
+				<heading>-81.60822935274483</heading>
+				<tilt>34.74024007976913</tilt>
+				<range>400.2339886065878</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_no.043-Gonsuke-&amp;-Mongar</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.5771118876452,35.61537043015254,39.99999999999999</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

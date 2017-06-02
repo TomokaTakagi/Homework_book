@@ -4,11 +4,11 @@
 <head>
 	<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
 	<meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1">
-	<meta name="description" content="Cesiumを使った日野市オープンデータ可視化のサンプルです" />
-	<meta property="og:image" content="data/hinoshi.png" />
-	<meta property="og:description" content="Cesiumを使った日野市オープンデータ可視化のサンプルです" />
+	<meta name="description" content="「もにゅキャラ巡礼　銅像になったマンガ＆アニメキャラたち」を可視化した作品です" />
+	<meta property="og:image" content="data/no.054_Tetsujin28.jpg" />
+	<meta property="og:description" content="Cesiumを使い、「もにゅキャラ巡礼　銅像になったマンガ＆アニメキャラたち」を可視化した作品です" />
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no">
-	<title>日野市オープンデータ可視化</title>
+	<title>もにゅキャラ巡礼</title>
 	<link rel="alternate" href="http://hiroshima.archiving.jp/index_en.html" hreflang="en" />
 	<link rel="SHORTCUT ICON" href="http://shinsai.mapping.jp/favicon.ico">
 	<style>
@@ -64,7 +64,7 @@
 		<a href="https://www.openstreetmap.org/copyright" target="_blank">MapData: © OpenStreetMap contributors</a>
 	</div>
 	<script>
-		// ========== 初期化 ========== 
+		// ========== 初期化 ==========
 
 		//スマホで閲覧した際に，スワイプによるスクロールを禁止
 
@@ -90,7 +90,7 @@
 			$(svNotAvailable).hide();
 		});
 
-		// ========== ビューア初期化 ========== 
+		// ========== ビューア初期化 ==========
 
 		var viewer = new Cesium.Viewer('cesiumContainer', {
 			imageryProvider: new Cesium.ArcGisMapServerImageryProvider({
@@ -130,7 +130,7 @@
 		fog.density = 0.0005;
 		fog.screenSpaceErrorFactor = 100.0;
 
-		// ========== 視点関連 ========== 
+		// ========== 視点関連 ==========
 
 		//視点配列を作成
 
@@ -147,9 +147,9 @@
 
 		//視点を登録：　緯度，経度，注視点の高さ，傾き，視点の高さ
 
-		viewPointsArray[0] = new viewPoints("首都大", 35.661, 139.3657347, 0, -45, 1000);
-		viewPointsArray[1] = new viewPoints("日野市", 35.654, 139.394, 0, -89, 15000);
-		viewPointsArray[2] = new viewPoints("初期視点", 35.654, 139.394, 0, -35, 5000);
+		viewPointsArray[0] = new viewPoints("上からの視点", 36.425280, 136.215101, 0, -90, 2000000);
+		viewPointsArray[1] = new viewPoints("20°の視点", 36.425280, 136.215101, 0, -20, 2000000);
+		viewPointsArray[2] = new viewPoints("全体", 36.425280, 136.215101, 0, -60, 2000000);
 
 		//視点メニューを作成
 
@@ -195,7 +195,7 @@
 			navigator.geolocation.getCurrentPosition(fly);
 		}
 
-		// ========== 以降，起動シークエンス ========== 
+		// ========== 以降，起動シークエンス ==========
 
 		//クレジットを隠す
 
@@ -222,7 +222,7 @@
 			setTimeout('loadKml()', 3000);
 		}
 
-		// ========== KMLをロード ========== 
+		// ========== KMLをロード ==========
 
 		//KML配列を作成
 
@@ -233,8 +233,14 @@
 
 		var kmlDataArray = [];
 		//KMLデータを登録．kmzでもOK
-		kmlDataArray[0] = new kmlData("避難所", 'data/kml/hinanjo.kml');
-		kmlDataArray[1] = new kmlData("避難場所", 'data/kml/hinanbasyo.kml');
+		kmlDataArray[0] = new kmlData("第1章　すべては手塚治虫から始まった", 'data/kml/Chapter1.kml');
+		kmlDataArray[1] = new kmlData("第2章　[杉並区vs練馬区]アニメ聖地バトル", 'data/kml/Chapter2.kml');
+		kmlDataArray[2] = new kmlData("第3章　下町もにゅキャラ密集地帯", 'data/kml/Chapter3.kml');
+		kmlDataArray[3] = new kmlData("第4章　故郷のもにゅキャラを飾る", 'data/kml/Chapter4.kml');
+		kmlDataArray[4] = new kmlData("第5章　縁あってその場所に", 'data/kml/Chapter5.kml');
+		kmlDataArray[5] = new kmlData("第6章　なぜその場所にそのキャラが!?", 'data/kml/Chapter6.kml');
+		kmlDataArray[6] = new kmlData("第7章　着ぐるみもにゅキャラ化のリアリティとは!?", 'data/kml/Chapter7.kml');
+		kmlDataArray[7] = new kmlData("第8章　巨大ロボット 1/1もにゅキャラ対決!", 'data/kml/Chapter8.kml');
 		//時間情報入りのKML
 		//kmlDataArray[2] = new kmlData("タイムスパン", 'data/kml/timeSpans.kml');
 
@@ -272,7 +278,7 @@
 			}, 200);
 		}
 
-		// ========== 地図オーバレイを作成 ========== 
+		// ========== 地図オーバレイを作成 ==========
 
 		// オーバレイ配列
 
@@ -314,7 +320,7 @@
 			overlayListMenu.innerHTML = overlayList;
 		}
 
-		//オーバレイの透明度を変更 
+		//オーバレイの透明度を変更
 
 		function transParent(layer) {
 			var id = overlayDataArray[layer].id;
@@ -358,7 +364,7 @@
 			);
 		}
 
-		// ========== ダブルクリックでストビューを表示 ========== 
+		// ========== ダブルクリックでストビューを表示 ==========
 
 		//移動前のカメラ位置格納オブジェクト
 
@@ -422,13 +428,13 @@
 			}, Cesium.ScreenSpaceEventType.LEFT_DOUBLE_CLICK);
 		}
 
-		// ========== ヘルプへリンク ========== 
+		// ========== ヘルプへリンク ==========
 
 		function help() {
 			window.open('https://github.com/wtnv-lab/cesiumGitHubPages');
 		}
 
-		// ========== 各種DIVのフェードイン・アウト ========== 
+		// ========== 各種DIVのフェードイン・アウト ==========
 
 		function fadeInOut(layer, param) {
 			if (param == 0) {

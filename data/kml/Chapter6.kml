@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Chapter 6.kml</name>
+	<Style id="sh_no.047-Analyzer">
+		<IconStyle>
+			<scale>4.13636</scale>
+			<Icon>
+				<href>../images/no.047-Analyzer.png</href>
+			</Icon>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ffb76800</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_no.044-Maetel-&amp;-Tetsuro">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_no.044-Maetel-&amp;-Tetsuro</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_no.044-Maetel-&amp;-Tetsuro</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_no.046-Susumu-Kodai-&amp;-Yuki-Mori">
+		<IconStyle>
+			<scale>3.5</scale>
+			<Icon>
+				<href>../images/no.046-Susumu-Kodai-&amp;-Yuki-Mori.png</href>
+			</Icon>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ffb76800</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_no.045-Conductor">
+		<IconStyle>
+			<scale>3.5</scale>
+			<Icon>
+				<href>../images/no.045-Conductor.png</href>
+			</Icon>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ffb76800</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_no.046-Susumu-Kodai-&amp;-Yuki-Mori">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_no.046-Susumu-Kodai-&amp;-Yuki-Mori</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_no.046-Susumu-Kodai-&amp;-Yuki-Mori</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_no.047-Analyzer">
+		<IconStyle>
+			<scale>3.5</scale>
+			<Icon>
+				<href>../images/no.047-Analyzer.png</href>
+			</Icon>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ffb76800</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_no.048-Kenshiro">
+		<IconStyle>
+			<scale>4.13636</scale>
+			<Icon>
+				<href>../images/no.048-Kenshiro.png</href>
+			</Icon>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ff969e00</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_no.045-Conductor">
+		<IconStyle>
+			<scale>4.13636</scale>
+			<Icon>
+				<href>../images/no.045-Conductor.png</href>
+			</Icon>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ffb76800</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_no.048-Kenshiro">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_no.048-Kenshiro</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_no.048-Kenshiro</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_no.046-Susumu-Kodai-&amp;-Yuki-Mori">
+		<IconStyle>
+			<scale>4.13636</scale>
+			<Icon>
+				<href>../images/no.046-Susumu-Kodai-&amp;-Yuki-Mori.png</href>
+			</Icon>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ffb76800</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_no.048-Kenshiro">
+		<IconStyle>
+			<scale>3.5</scale>
+			<Icon>
+				<href>../images/no.048-Kenshiro.png</href>
+			</Icon>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ff969e00</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_no.044-Maetel-&amp;-Tetsuro">
+		<IconStyle>
+			<scale>3.5</scale>
+			<Icon>
+				<href>../images/no.044-Maetel-&amp;-Tetsuro.png</href>
+			</Icon>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ffb76800</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_no.047-Analyzer">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_no.047-Analyzer</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_no.047-Analyzer</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_no.044-Maetel-&amp;-Tetsuro">
+		<IconStyle>
+			<scale>4.13636</scale>
+			<Icon>
+				<href>../images/no.044-Maetel-&amp;-Tetsuro.png</href>
+			</Icon>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ffb76800</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_no.045-Conductor">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_no.045-Conductor</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_no.045-Conductor</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Folder>
+		<name>Chapter 6</name>
+		<description>第6章　なぜその場所にそのキャラが!?</description>
+		<Placemark>
+			<name>no.044 メーテル＆星野鉄郎</name>
+			<description><![CDATA[<b>●DATA</b><br>
+作品名：銀河鉄道９９９
+所在地：福井県敦賀市・JR敦賀駅前シンボルロード
+属性：ブロンズ・フィギュア型・ツーリズム
+<a href="http://ameblo.jp/benimashiko/entry-11410368537.html">http://ameblo.jp/benimashiko/entry-11410368537.html</a>]]></description>
+			<LookAt>
+				<longitude>136.0723019308728</longitude>
+				<latitude>35.647550195023</latitude>
+				<altitude>0</altitude>
+				<heading>76.47135800211154</heading>
+				<tilt>36.33865635904837</tilt>
+				<range>131.9066022373688</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_no.044-Maetel-&amp;-Tetsuro</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>136.0722529618702,35.64764262177389,39.99999999999999</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>no.045 車掌</name>
+			<description><![CDATA[<b>●DATA</b><br>
+作品名：銀河鉄道９９９
+所在地：福井県敦賀市・JR敦賀駅前シンボルロード
+属性：ブロンズ・マネキン型・ツーリズム
+<a href="http://ameblo.jp/benimashiko/entry-11410368537.html">http://ameblo.jp/benimashiko/entry-11410368537.html</a>]]></description>
+			<LookAt>
+				<longitude>136.0733759472611</longitude>
+				<latitude>35.64766713800581</latitude>
+				<altitude>0</altitude>
+				<heading>29.55235752211605</heading>
+				<tilt>45.24099592642186</tilt>
+				<range>426.556195692304</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_no.045-Conductor</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>136.0728292451196,35.64710329261504,160</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>no.046 古代進＆森雪</name>
+			<description><![CDATA[<b>●DATA</b><br>
+作品名：宇宙戦艦ヤマト
+所在地：福井県敦賀市・JR敦賀駅前シンボルロード
+属性：ブロンズ・マネキン型・ツーリズム<a href="http://minkara.carview.co.jp/userid/1172224/blog/38122405/">http://minkara.carview.co.jp/userid/1172224/blog/38122405/</a>]]></description>
+			<LookAt>
+				<longitude>136.0735293978237</longitude>
+				<latitude>35.64574800131304</latitude>
+				<altitude>0</altitude>
+				<heading>-131.6512576068396</heading>
+				<tilt>45.00164730054419</tilt>
+				<range>349.6875142455668</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_no.046-Susumu-Kodai-&amp;-Yuki-Mori</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>136.0741714537313,35.64622061106822,160</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>no.047 アナライザー</name>
+			<description><![CDATA[<b>●DATA</b><br>
+作品名：宇宙戦艦ヤマト
+所在地：福井県敦賀市・JR敦賀駅前シンボルロード
+属性：ブロンズ・マネキン型・ツーリズム<a href="http://ameblo.jp/benimashiko/entry-11410368537.html">http://ameblo.jp/benimashiko/entry-11410368537.html</a>]]></description>
+			<LookAt>
+				<longitude>136.0739073939627</longitude>
+				<latitude>35.65359865759904</latitude>
+				<altitude>0</altitude>
+				<heading>103.4012897072302</heading>
+				<tilt>37.93514604300811</tilt>
+				<range>294.0050166523287</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_no.047-Analyzer</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>136.0729736917776,35.65359483427486,160</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>no.048 ケンシロウ</name>
+			<description><![CDATA[<b>●DATA</b><br>
+作品名：北斗の拳
+所在地：北海道北斗市・JR新函館北斗駅 北斗市観光交流センター
+属性：ブロンズ・フィギュア型・招き猫<a href="https://ddnavi.com/news/295310/a/">https://ddnavi.com/news/295310/a/</a>]]></description>
+			<LookAt>
+				<longitude>140.648239850185</longitude>
+				<latitude>41.90447356721714</latitude>
+				<altitude>0</altitude>
+				<heading>-23.10513780063434</heading>
+				<tilt>45.80435423343757</tilt>
+				<range>145.0157654119813</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_no.048-Kenshiro</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>140.6483054550704,41.90441678324038,39.99999999999999</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Chapter　7.kml</name>
+	<StyleMap id="msn_no.053-Gomora">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_no.053-Gomora</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_no.053-Gomora</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_no.050-Ultraman">
+		<IconStyle>
+			<scale>3</scale>
+			<Icon>
+				<href>../images/no.050-Ultraman.png</href>
+			</Icon>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ff0098f3</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_no.051-Ultraman">
+		<IconStyle>
+			<scale>3.54545</scale>
+			<Icon>
+				<href>../images/no.051-Ultraman.png</href>
+			</Icon>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ff0098f3</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_no.052-Ultra-Seven">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_no.052-Ultra-Seven</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_no.052-Ultra-Seven</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_no.049-Godzilla">
+		<IconStyle>
+			<scale>4.13636</scale>
+			<Icon>
+				<href>../images/no.049-Godzilla.png</href>
+			</Icon>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ff969e00</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_no.051-Ultraman">
+		<IconStyle>
+			<scale>3</scale>
+			<Icon>
+				<href>../images/no.051-Ultraman.png</href>
+			</Icon>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ff0098f3</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_no.052-Ultra-Seven">
+		<IconStyle>
+			<scale>3</scale>
+			<Icon>
+				<href>../images/no.052-Ultra-Seven.png</href>
+			</Icon>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ff0098f3</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_no.050-Ultraman">
+		<IconStyle>
+			<scale>3.54545</scale>
+			<Icon>
+				<href>../images/no.050-Ultraman.png</href>
+			</Icon>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ff0098f3</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_no.050-Ultraman">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_no.050-Ultraman</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_no.050-Ultraman</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_no.052-Ultra-Seven">
+		<IconStyle>
+			<scale>3.54545</scale>
+			<Icon>
+				<href>../images/no.052-Ultra-Seven.png</href>
+			</Icon>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ff0098f3</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_no.049-Godzilla">
+		<IconStyle>
+			<scale>3.5</scale>
+			<Icon>
+				<href>../images/no.049-Godzilla.png</href>
+			</Icon>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ff969e00</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_no.053-Gomora">
+		<IconStyle>
+			<scale>3</scale>
+			<Icon>
+				<href>../images/no.053-Gomora.png</href>
+			</Icon>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ff0098f3</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_no.049-Godzilla">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_no.049-Godzilla</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_no.049-Godzilla</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_no.051-Ultraman">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_no.051-Ultraman</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_no.051-Ultraman</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_no.053-Gomora">
+		<IconStyle>
+			<scale>3.54545</scale>
+			<Icon>
+				<href>../images/no.053-Gomora.png</href>
+			</Icon>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ff0098f3</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Folder>
+		<name>Chapter　7</name>
+		<description>第7章　着ぐるみもにゅキャラ化のリアリティとは!?</description>
+		<Placemark>
+			<name>no.049 ゴジラ</name>
+			<description><![CDATA[<b>●DATA</b><br>
+作品名：ゴジラ
+所在地：東京都千代田区・日比谷シャンテ広場
+属性：ブロンズ・地蔵型・招き猫
+<a href="http://blog.goo.ne.jp/killbill9/e/c60ac261b0d1f7b450a02bccbc120f11">http://blog.goo.ne.jp/killbill9/e/c60ac261b0d1f7b450a02bccbc120f11</a>]]></description>
+			<LookAt>
+				<longitude>139.7600360374148</longitude>
+				<latitude>35.67363855923117</latitude>
+				<altitude>0</altitude>
+				<heading>-98.0494511170906</heading>
+				<tilt>31.9026617761907</tilt>
+				<range>241.1378844875261</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_no.049-Godzilla</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.7603536197244,35.67364785863275,100</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>no.050 ウルトラマン</name>
+			<description><![CDATA[<b>●DATA</b><br>
+作品名：ウルトラマン
+所在地：東京都世田谷区祖師谷・小田急線祖師ヶ谷大蔵駅前
+属性：FRP・観音型・まちづくり<a href="http://blog.goo.ne.jp/tetokichi/e/953f05562429ba3324fbaaed869e47cd">http://blog.goo.ne.jp/tetokichi/e/953f05562429ba3324fbaaed869e47cd</a>]]></description>
+			<LookAt>
+				<longitude>139.6089710078565</longitude>
+				<latitude>35.64433304264827</latitude>
+				<altitude>0</altitude>
+				<heading>-18.36790262770142</heading>
+				<tilt>44.24212901149929</tilt>
+				<range>480.8966934618157</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_no.050-Ultraman</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.609190053868,35.64336294855433,200</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>no.051 ウルトラマン</name>
+			<description><![CDATA[<b>●DATA</b><br>
+作品名：ウルトラマン
+所在地：福島県須賀川市・JR東北本線須賀川駅前
+属性：FRP・観音型・まちづくり<a href="https://blogs.yahoo.co.jp/kaomaru42_3/32350532.html">https://blogs.yahoo.co.jp/kaomaru42_3/32350532.html</a>]]></description>
+			<LookAt>
+				<longitude>140.3726077705242</longitude>
+				<latitude>37.29910455180048</latitude>
+				<altitude>0</altitude>
+				<heading>156.867396568223</heading>
+				<tilt>37.62349642746513</tilt>
+				<range>381.4315541287522</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_no.051-Ultraman</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>140.372273069331,37.3000336817604,200</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>no.052 ウルトラセブン</name>
+			<description><![CDATA[<b>●DATA</b><br>
+作品名：ウルトラセブン
+所在地：福島県須賀川市・松明通り沿い
+属性：FRP・マネキン型・まちづくり<a href="http://bunbun.hatenablog.com/entry/2016/07/15/061945">http://bunbun.hatenablog.com/entry/2016/07/15/061945</a>]]></description>
+			<LookAt>
+				<longitude>140.3761810297744</longitude>
+				<latitude>37.28990945357051</latitude>
+				<altitude>0</altitude>
+				<heading>67.15876480311324</heading>
+				<tilt>45.00227394181263</tilt>
+				<range>501.9675937145802</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_no.052-Ultra-Seven</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>140.3758368762776,37.28966067900483,160</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>no.053 ゴモラ</name>
+			<description><![CDATA[<b>●DATA</b><br>
+作品名：ウルトラセブン
+所在地：福島県須賀川市・松明通り沿い
+属性：FRP・マネキン型・まちづくり<a href="http://syuka69.blog110.fc2.com/blog-entry-2668.html">
+http://syuka69.blog110.fc2.com/blog-entry-2668.html</a>]]></description>
+			<LookAt>
+				<longitude>140.3767240793246</longitude>
+				<latitude>37.28795180900067</latitude>
+				<altitude>0</altitude>
+				<heading>122.9113604558439</heading>
+				<tilt>45.27434871774134</tilt>
+				<range>350.7094379990205</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_no.053-Gomora</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>140.3756415550162,37.28819660480799,160</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

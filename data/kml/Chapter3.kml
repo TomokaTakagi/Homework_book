@@ -1,0 +1,523 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Chapter 3.kml</name>
+	<Style id="sh_no.016-Nakazawa-Sanae">
+		<IconStyle>
+			<scale>4.13636</scale>
+			<Icon>
+				<href>../images/no.016-Nakazawa-Sanae.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0098f3</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_011-Tonpei,-Chinkichi-&amp;-Kankichi">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_011-Tonpei,-Chinkichi-&amp;-Kankichi</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_011-Tonpei,-Chinkichi-&amp;-Kankichi</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_012-Keiichi-Nakagawa">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_012-Keiichi-Nakagawa</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_012-Keiichi-Nakagawa</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_no.014-Tsubasa-Ohzora">
+		<IconStyle>
+			<scale>4.08333</scale>
+			<Icon>
+				<href>../images/no.014-Tsubasa-Ohzora.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0098f3</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_009-Kankichi-Ryotsu">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_009-Kankichi-Ryotsu</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_009-Kankichi-Ryotsu</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_009-Kankichi-Ryotsu">
+		<IconStyle>
+			<scale>3.5</scale>
+			<Icon>
+				<href>../images/009-Kankichi-Ryotsu.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ffb76800</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_011-Tonpei,-Chinkichi-&amp;-Kankichi">
+		<IconStyle>
+			<scale>4.08333</scale>
+			<Icon>
+				<href>../images/011-Tonpei,-Chinkichi-&amp;-Kankichi.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ffb76800</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_no.015-Taro-Misaki">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_no.015-Taro-Misaki</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_no.015-Taro-Misaki</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_010-Ryotsu-Kankichi">
+		<IconStyle>
+			<scale>4.08333</scale>
+			<Icon>
+				<href>../images/010-Ryotsu-Kankichi.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ffb76800</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_011-Tonpei,-Chinkichi-&amp;-Kankichi">
+		<IconStyle>
+			<scale>3.5</scale>
+			<Icon>
+				<href>../images/011-Tonpei,-Chinkichi-&amp;-Kankichi.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ffb76800</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_009-Kankichi-Ryotsu">
+		<IconStyle>
+			<scale>4.08333</scale>
+			<Icon>
+				<href>../images/009-Kankichi-Ryotsu.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ffb76800</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_no.016-Nakazawa-Sanae">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_no.016-Nakazawa-Sanae</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_no.016-Nakazawa-Sanae</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_010-Ryotsu-Kankichi">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_010-Ryotsu-Kankichi</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_010-Ryotsu-Kankichi</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_no.016-Nakazawa-Sanae">
+		<IconStyle>
+			<scale>3.5</scale>
+			<Icon>
+				<href>../images/no.016-Nakazawa-Sanae.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0098f3</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_no.014-Tsubasa-Ohzora">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_no.014-Tsubasa-Ohzora</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_no.014-Tsubasa-Ohzora</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_no.015-Taro-Misaki">
+		<IconStyle>
+			<scale>4.08333</scale>
+			<Icon>
+				<href>../images/no.015-Taro-Misaki.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0098f3</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_013-Ryotsu, Nakagawa &amp; Reiko">
+		<IconStyle>
+			<scale>4.08333</scale>
+			<Icon>
+				<href>../images/013-Ryotsu, Nakagawa &amp; Reiko.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ffb76800</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_no.017-Joe-Yabuki">
+		<IconStyle>
+			<scale>3</scale>
+			<Icon>
+				<href>../images/no.017-Joe-Yabuki.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff969e00</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_010-Ryotsu-Kankichi">
+		<IconStyle>
+			<scale>3.5</scale>
+			<Icon>
+				<href>../images/010-Ryotsu-Kankichi.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ffb76800</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_012-Keiichi-Nakagawa">
+		<IconStyle>
+			<scale>3.5</scale>
+			<Icon>
+				<href>../images/012-Keiichi-Nakagawa.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ffb76800</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_no.015-Taro-Misaki">
+		<IconStyle>
+			<scale>3.5</scale>
+			<Icon>
+				<href>../images/no.015-Taro-Misaki.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0098f3</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_012-Keiichi-Nakagawa">
+		<IconStyle>
+			<scale>4.08333</scale>
+			<Icon>
+				<href>../images/012-Keiichi-Nakagawa.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ffb76800</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_no.014-Tsubasa-Ohzora">
+		<IconStyle>
+			<scale>3.5</scale>
+			<Icon>
+				<href>../images/no.014-Tsubasa-Ohzora.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0098f3</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_013-Ryotsu, Nakagawa &amp; Reiko">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_013-Ryotsu, Nakagawa &amp; Reiko</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_013-Ryotsu, Nakagawa &amp; Reiko</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_013-Ryotsu, Nakagawa &amp; Reiko">
+		<IconStyle>
+			<scale>3.5</scale>
+			<Icon>
+				<href>../images/013-Ryotsu, Nakagawa &amp; Reiko.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ffb76800</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_no.017-Joe-Yabuki">
+		<IconStyle>
+			<scale>3.54545</scale>
+			<Icon>
+				<href>../images/no.017-Joe-Yabuki.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff969e00</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_no.017-Joe-Yabuki">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_no.017-Joe-Yabuki</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_no.017-Joe-Yabuki</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Folder>
+		<name>Chapter 3</name>
+		<description>第3章　下町もにゅキャラ密集地帯</description>
+		<Placemark>
+			<name>no.009 両津勘吉</name>
+			<description><![CDATA[<b>●DATA</b><br>
+作品名：こちら葛飾区亀有公園前派出所
+所在地：東京都葛飾区・JR亀有駅北口
+属性：ブロンズ・マネキン型・ツーリズム<a href="https://wayohoo.com/travels/japan/tokyo/ryosan-bronze-statue-all-photos.html">https://wayohoo.com/travels/japan/tokyo/ryosan-bronze-statue-all-photos.html</a>]]></description>
+			<LookAt>
+				<longitude>139.8479217444284</longitude>
+				<latitude>35.76687119290693</latitude>
+				<altitude>0</altitude>
+				<heading>123.7143226725687</heading>
+				<tilt>32.89974314063913</tilt>
+				<range>62.51445152318239</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_009-Kankichi-Ryotsu</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.8479217444284,35.76687119290693,160</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>no.010 両津勘吉</name>
+			<description><![CDATA[<b>●DATA</b><br>
+作品名：こちら葛飾区亀有公園前派出所
+所在地：東京都葛飾区・JR亀有駅南口
+属性：ブロンズ・マネキン型・ツーリズム<a href="http://seesaawiki.jp/w/ekiwiki/d/%B5%B5%CD%AD%B1%D8">http://seesaawiki.jp/w/ekiwiki/d/%B5%B5%CD%AD%B1%D8</a>]]></description>
+			<LookAt>
+				<longitude>139.846396010513</longitude>
+				<latitude>35.76562459361682</latitude>
+				<altitude>0</altitude>
+				<heading>-117.2307512488144</heading>
+				<tilt>45.00173185253394</tilt>
+				<range>406.7580860137069</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_010-Ryotsu-Kankichi</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.8475046562381,35.76613007837736,160</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>no.011 豚平＆珍吉＆勘吉</name>
+			<description><![CDATA[<b>●DATA</b><br>
+作品名：こちら葛飾区亀有公園前派出所
+所在地：東京都葛飾区・亀有銀座商店街
+属性：ブロンズ・マネキン型・ツーリズム<a href="https://wayohoo.com/travels/japan/tokyo/ryosan-bronze-statue-all-photos.html">https://wayohoo.com/travels/japan/tokyo/ryosan-bronze-statue-all-photos.html</a>]]></description>
+			<LookAt>
+				<longitude>139.847910443952</longitude>
+				<latitude>35.76412839535859</latitude>
+				<altitude>0</altitude>
+				<heading>-85.20363980595975</heading>
+				<tilt>45.32110719895986</tilt>
+				<range>379.014420779902</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_011-Tonpei,-Chinkichi-&amp;-Kankichi</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.8488058273406,35.76411616014202,160</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>no.012 中川圭一</name>
+			<description><![CDATA[<b>●DATA</b><br>
+作品名：こちら葛飾区亀有公園前派出所
+所在地：東京都葛飾区・JR亀有駅南口
+属性：ブロンズ・フィギュア型・ツーリズム<a href="http://blog.goo.ne.jp/picarin2005/e/690f46b9df41caed299fb5fadc3c0e07">http://blog.goo.ne.jp/picarin2005/e/690f46b9df41caed299fb5fadc3c0e07</a>]]></description>
+			<LookAt>
+				<longitude>139.8486984221655</longitude>
+				<latitude>35.76618917056212</latitude>
+				<altitude>0</altitude>
+				<heading>0.05498871420636028</heading>
+				<tilt>26.16993162007361</tilt>
+				<range>229.1096099794347</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_012-Keiichi-Nakagawa</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.8485279679776,35.76600539870304,39.99999999999999</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>no.013 両津勘吉＆中川圭一＆秋山・カトリーヌ・麗子</name>
+			<description><b>●DATA</b><br>
+作品名：こちら葛飾区亀有公園前派出所
+所在地：東京都葛飾区・JR亀有駅南口
+属性：ブロンズ・マネキン型・ツーリズム</description>
+			<LookAt>
+				<longitude>139.8490972285143</longitude>
+				<latitude>35.76659890366886</latitude>
+				<altitude>0</altitude>
+				<heading>75.61267044125719</heading>
+				<tilt>48.72693312829537</tilt>
+				<range>410.361793899967</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_013-Ryotsu, Nakagawa &amp; Reiko</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.8480958145474,35.76648081869996,160</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>no.014 大空翼</name>
+			<description><![CDATA[<b>●DATA</b><br>
+作品名：キャプテン翼
+所在地：東京都葛飾区・四つ木翼つばさ公園
+属性：ブロンズ・マネキン型・まちづくり<a href="http://s.webry.info/sp/22093434.at.webry.info/201610/article_3.html">http://s.webry.info/sp/22093434.at.webry.info/201610/article_3.html</a>]]></description>
+			<LookAt>
+				<longitude>139.8335202156076</longitude>
+				<latitude>35.73403931735415</latitude>
+				<altitude>0</altitude>
+				<heading>-93.40829030140763</heading>
+				<tilt>37.86261837185462</tilt>
+				<range>338.7885417050655</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_no.014-Tsubasa-Ohzora</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.8341358263285,35.73414395326944,160</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>no.015 岬太郎</name>
+			<description><![CDATA[<b>●DATA</b><br>
+作品名：キャプテン翼
+所在地：東京都葛飾区東立石・渋江公園
+属性：ブロンズ・マネキン型・まちづくり<a href="http://s.webry.info/sp/22093434.at.webry.info/201610/article_3.html">http://s.webry.info/sp/22093434.at.webry.info/201610/article_3.html</a>]]></description>
+			<LookAt>
+				<longitude>139.8434814726175</longitude>
+				<latitude>35.73526916846395</latitude>
+				<altitude>0</altitude>
+				<heading>-113.0369902701052</heading>
+				<tilt>45.00008864926391</tilt>
+				<range>104.53350019178</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_no.015-Taro-Misaki</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.8434313118164,35.7351450218403,160</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>no.016 中沢早苗</name>
+			<description><b>●DATA</b><br>
+作品名：キャプテン翼
+所在地：東京都葛飾区四つ木・葛飾郵便局前
+属性：ブロンズ・地蔵型・まちづくり</description>
+			<LookAt>
+				<longitude>139.8393834646886</longitude>
+				<latitude>35.73574036589596</latitude>
+				<altitude>0</altitude>
+				<heading>-19.97395513092744</heading>
+				<tilt>46.38665020216481</tilt>
+				<range>98.7714508512375</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_no.016-Nakazawa-Sanae</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.8393475998557,35.73580391292602,100</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>no,017 矢吹丈</name>
+			<description><![CDATA[<b>●DATA</b><br>
+作品名：あしたのジョー
+所在地：東京都台東区・いろは会商店街入り口
+属性：FRP・マネキン型・招き猫<a href="http://www.tokyoseikatsu.com/town_tokyo/shopping/sannya/post-129.php">http://www.tokyoseikatsu.com/town_tokyo/shopping/sannya/post-129.php</a>]]></description>
+			<LookAt>
+				<longitude>139.7956860958154</longitude>
+				<latitude>35.72596859394676</latitude>
+				<altitude>0</altitude>
+				<heading>-42.83606301096003</heading>
+				<tilt>38.55045745034632</tilt>
+				<range>338.2135869803776</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_no.017-Joe-Yabuki</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.7966548959458,35.72548207013385,160</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

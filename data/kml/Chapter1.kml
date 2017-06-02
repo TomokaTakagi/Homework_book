@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Chapter 1.kml</name>
+	<StyleMap id="msn_002-Phoenix">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_002-Phoenix</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_002-Phoenix</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_003-Tokiwa-Apartment">
+		<IconStyle>
+			<scale>3.5</scale>
+			<Icon>
+				<href>../images/003-Tokiwa-Apartment.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0098f3</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_001-Atom">
+		<IconStyle>
+			<scale>3.5</scale>
+			<Icon>
+				<href>../images/001-Atom.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0098f3</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_002-Phoenix">
+		<IconStyle>
+			<scale>4.08333</scale>
+			<Icon>
+				<href>../images/002-Phoenix.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ffb76800</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_001-Atom">
+		<IconStyle>
+			<scale>4.08333</scale>
+			<Icon>
+				<href>../images/001-Atom.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0098f3</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_002-Phoenix">
+		<IconStyle>
+			<scale>3.5</scale>
+			<Icon>
+				<href>../images/002-Phoenix.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ffb76800</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_001-Atom">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_001-Atom</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_001-Atom</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_003-Tokiwa-Apartment">
+		<IconStyle>
+			<scale>4.08333</scale>
+			<Icon>
+				<href>../images/003-Tokiwa-Apartment.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0098f3</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_003-Tokiwa-Apartment">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_003-Tokiwa-Apartment</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_003-Tokiwa-Apartment</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Folder>
+		<name>Chapter 1</name>
+		<description>第1章　すべては手塚治虫から始まった</description>
+		<Placemark>
+			<name>no.001 アトム</name>
+			<description><![CDATA[<b>●DATA</b><br>
+作品名：鉄腕アトム
+所在地：埼玉県飯能市・飯能中央公園内
+属性：ブロンズ・観音型・まちづくり
+
+<img src="http://stat.ameba.jp/user_images/20130516/23/goban-s/79/02/j/o0800142212541421489.jpg?caw=800">
+
+<a href="http://ameblo.jp/goban-s/entry-11531871924.html">]]></description>
+			<LookAt>
+				<longitude>139.3113829567591</longitude>
+				<latitude>35.85872308226261</latitude>
+				<altitude>0</altitude>
+				<heading>-154.6600380595793</heading>
+				<tilt>50.19532376232601</tilt>
+				<range>206.8637489104027</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_001-Atom</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.3110017864011,35.85850004807442,200</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>no.002 火の鳥</name>
+			<description><![CDATA[<b>●DATA</b><br>
+作品名：火の鳥
+所在地：兵庫県宝塚市・手塚治虫記念館前
+属性：ブロンズ・観音型・ツーリズム
+
+<a href="http://blog.livedoor.jp/yt0213/archives/51789699.html">http://blog.livedoor.jp/yt0213/archives/51789699.html</a>]]></description>
+			<LookAt>
+				<longitude>135.3474319764961</longitude>
+				<latitude>34.80723335392838</latitude>
+				<altitude>0</altitude>
+				<heading>-87.77106781693485</heading>
+				<tilt>31.2622714895153</tilt>
+				<range>456.2083014118988</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_002-Phoenix</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>135.3480636789399,34.80720853100316,200</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>no.003 トキワ荘</name>
+			<description><![CDATA[<b>●DATA</b><br>
+作品名：まんが道 ほか
+所在地：東京都豊島区南長崎・南長崎花咲公園
+属性：ブロンズ・フィギュア型・まちづくり<a href="https://nippon1000parks.blogspot.jp/2017/03/14291000.html">https://nippon1000parks.blogspot.jp/2017/03/14291000.html</a>]]></description>
+			<LookAt>
+				<longitude>139.686277397905</longitude>
+				<latitude>35.72435813175238</latitude>
+				<altitude>0</altitude>
+				<heading>11.35198558295193</heading>
+				<tilt>37.47292542242519</tilt>
+				<range>166.6876639389889</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_003-Tokiwa-Apartment</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.6862750045418,35.72450442257698,39.99999999999999</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>
