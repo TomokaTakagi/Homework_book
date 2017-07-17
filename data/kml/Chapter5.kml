@@ -250,9 +250,10 @@
 		<Placemark>
 			<name>no.037 フグ田サザエ</name>
 			<description><![CDATA[<b>●DATA</b><br>
-作品名：サザエさん
-所在地：東京都世田谷区・桜新町商店街
-属性：ブロンズ・マネキン型・まちづくり<a href="http://www.gotokyo.org/jp/kanko/setagaya/spot/130422.html">http://www.gotokyo.org/jp/kanko/setagaya/spot/130422.html</a>]]></description>
+作品名：サザエさん<br>
+所在地：東京都世田谷区・桜新町商店街<br>
+属性：ブロンズ・マネキン型・まちづくり<br>
+<a href="http://www.gotokyo.org/jp/kanko/setagaya/spot/130422.html">http://www.gotokyo.org/jp/kanko/setagaya/spot/130422.html</a>]]></description>
 			<LookAt>
 				<longitude>139.6452675687933</longitude>
 				<latitude>35.631066179897</latitude>
@@ -272,10 +273,11 @@
 		</Placemark>
 		<Placemark>
 			<name>no.038 田畑コボ</name>
-			<description><b>●DATA</b><br>
+			<description><![CDATA[<b>●DATA</b><br>
 作品名：コボちゃん
-所在地：東京都新宿区・神楽坂商店街
-属性：ブロンズ・地蔵型・まちづくり</description>
+<br>所在地：東京都新宿区・神楽坂商店街
+属性：ブロンズ・地蔵型・まちづくり<br>
+<a href="http://www.tokyustay.co.jp/hotel/SUI/topics/2015/08/post_112.html">http://www.tokyustay.co.jp/hotel/SUI/topics/2015/08/post_112.html</a>]]></description>
 			<LookAt>
 				<longitude>139.737315624686</longitude>
 				<latitude>35.70296719431006</latitude>
@@ -296,9 +298,10 @@
 		<Placemark>
 			<name>no.039 鬼太郎</name>
 			<description><![CDATA[<b>●DATA</b><br>
-作品名：ゲゲゲの鬼太郎
-所在地：東京都調布市・天神通り商店街
-属性：FRP・フィギュア型・招き猫<a href="http://dasfoto.blog99.fc2.com/blog-entry-182.html">http://dasfoto.blog99.fc2.com/blog-entry-182.html</a>]]></description>
+作品名：ゲゲゲの鬼太郎<br>
+所在地：東京都調布市・天神通り商店街<br>
+属性：FRP・フィギュア型・招き猫<br>
+<a href="http://dasfoto.blog99.fc2.com/blog-entry-182.html">http://dasfoto.blog99.fc2.com/blog-entry-182.html</a>]]></description>
 			<LookAt>
 				<longitude>139.545113769269</longitude>
 				<latitude>35.65494202485308</latitude>
@@ -319,9 +322,10 @@
 		<Placemark>
 			<name>no.040 ドラえもん</name>
 			<description><![CDATA[<b>●DATA</b><br>
-作品名：ドラえもん
-所在地：神奈川県川崎市・小田急線向ヶ丘遊園駅前ほか
-属性：ブロンズ・フィギュア型・ツーリズム<a href="http://tezukaosamu.net/jp/mushi/201203/column.html">http://tezukaosamu.net/jp/mushi/201203/column.html</a>]]></description>
+作品名：ドラえもん<br>
+所在地：神奈川県川崎市・小田急線向ヶ丘遊園駅前ほか<br>
+属性：ブロンズ・フィギュア型・ツーリズム<br>
+<a href="http://tezukaosamu.net/jp/mushi/201203/column.html">http://tezukaosamu.net/jp/mushi/201203/column.html</a>]]></description>
 			<LookAt>
 				<longitude>139.5644106283489</longitude>
 				<latitude>35.61689996177582</latitude>
@@ -342,9 +346,10 @@
 		<Placemark>
 			<name>no.042 パーマン1号＆2号</name>
 			<description><![CDATA[<b>●DATA</b><br>
-作品名：パーマン
-所在地：神奈川県川崎市・五ヶ村堀緑地本村橋前
-属性：ブロンズ・フィギュア型・ツーリズム<a href="https://blogs.yahoo.co.jp/rc31jp/43895895.html">https://blogs.yahoo.co.jp/rc31jp/43895895.html</a>]]></description>
+作品名：パーマン<br>
+所在地：神奈川県川崎市・五ヶ村堀緑地本村橋前<br>
+属性：ブロンズ・フィギュア型・ツーリズム<br>
+<a href="https://blogs.yahoo.co.jp/rc31jp/43895895.html">https://blogs.yahoo.co.jp/rc31jp/43895895.html</a>]]></description>
 			<LookAt>
 				<longitude>139.5693907598352</longitude>
 				<latitude>35.61322548962052</latitude>
@@ -365,9 +370,10 @@
 		<Placemark>
 			<name>no.041 Q太郎＆O次郎</name>
 			<description><![CDATA[<b>●DATA</b><br>
-作品名：オバケのQ太郎
-所在地：神奈川県川崎市・五ヶ村堀緑地
-属性：ブロンズ・フィギュア型・ツーリズム<a href="https://blogs.yahoo.co.jp/rc31jp/43895895.html">https://blogs.yahoo.co.jp/rc31jp/43895895.html</a>]]></description>
+作品名：オバケのQ太郎<br>
+所在地：神奈川県川崎市・五ヶ村堀緑地<br>
+属性：ブロンズ・フィギュア型・ツーリズム<br>
+<a href="https://blogs.yahoo.co.jp/rc31jp/43895895.html">https://blogs.yahoo.co.jp/rc31jp/43895895.html</a>]]></description>
 			<LookAt>
 				<longitude>139.5665989239032</longitude>
 				<latitude>35.61482145496306</latitude>
@@ -388,9 +394,10 @@
 		<Placemark>
 			<name>no.043 ゴンスケ＆モンガー</name>
 			<description><![CDATA[<b>●DATA</b><br>
-作品名：２１エモン
-所在地：神奈川県川崎市・二ヶ領用水宿河原堀沿い
-属性：ブロンズ・フィギュア型・ツーリズム<a href="https://blogs.yahoo.co.jp/rc31jp/43895895.html">https://blogs.yahoo.co.jp/rc31jp/43895895.html</a>]]></description>
+作品名：２１エモン<br>
+所在地：神奈川県川崎市・二ヶ領用水宿河原堀沿い<br>
+属性：ブロンズ・フィギュア型・ツーリズム<br>
+<a href="https://blogs.yahoo.co.jp/rc31jp/43895895.html">https://blogs.yahoo.co.jp/rc31jp/43895895.html</a>]]></description>
 			<LookAt>
 				<longitude>139.5764369745903</longitude>
 				<latitude>35.61455491746158</latitude>

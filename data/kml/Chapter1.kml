@@ -110,13 +110,10 @@
 		<Placemark>
 			<name>no.001 アトム</name>
 			<description><![CDATA[<b>●DATA</b><br>
-作品名：鉄腕アトム
-所在地：埼玉県飯能市・飯能中央公園内
-属性：ブロンズ・観音型・まちづくり
-
-<img src="http://stat.ameba.jp/user_images/20130516/23/goban-s/79/02/j/o0800142212541421489.jpg?caw=800">
-
-<a href="http://ameblo.jp/goban-s/entry-11531871924.html">]]></description>
+作品名：鉄腕アトム<br>
+所在地：埼玉県飯能市・飯能中央公園内<br>
+属性：ブロンズ・観音型・まちづくり<br>
+<a href="http://ameblo.jp/goban-s/entry-11531871924.html">http://ameblo.jp/goban-s/entry-11531871924.html</a>]]></description>
 			<LookAt>
 				<longitude>139.3113829567591</longitude>
 				<latitude>35.85872308226261</latitude>
@@ -137,10 +134,9 @@
 		<Placemark>
 			<name>no.002 火の鳥</name>
 			<description><![CDATA[<b>●DATA</b><br>
-作品名：火の鳥
-所在地：兵庫県宝塚市・手塚治虫記念館前
-属性：ブロンズ・観音型・ツーリズム
-
+作品名：火の鳥<br>
+所在地：兵庫県宝塚市・手塚治虫記念館前<br>
+属性：ブロンズ・観音型・ツーリズム<br>
 <a href="http://blog.livedoor.jp/yt0213/archives/51789699.html">http://blog.livedoor.jp/yt0213/archives/51789699.html</a>]]></description>
 			<LookAt>
 				<longitude>135.3474319764961</longitude>
@@ -162,9 +158,10 @@
 		<Placemark>
 			<name>no.003 トキワ荘</name>
 			<description><![CDATA[<b>●DATA</b><br>
-作品名：まんが道 ほか
-所在地：東京都豊島区南長崎・南長崎花咲公園
-属性：ブロンズ・フィギュア型・まちづくり<a href="https://nippon1000parks.blogspot.jp/2017/03/14291000.html">https://nippon1000parks.blogspot.jp/2017/03/14291000.html</a>]]></description>
+作品名：まんが道 ほか<br>
+所在地：東京都豊島区南長崎・南長崎花咲公園<br>
+属性：ブロンズ・フィギュア型・まちづくり<br>
+<a href="https://nippon1000parks.blogspot.jp/2017/03/14291000.html">https://nippon1000parks.blogspot.jp/2017/03/14291000.html</a>]]></description>
 			<LookAt>
 				<longitude>139.686277397905</longitude>
 				<latitude>35.72435813175238</latitude>
